@@ -1,0 +1,11 @@
+C:\Users\nivek\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.csproj.AssemblyReference.cache
+C:\Users\nivek\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.csproj.SuggestedBindingRedirects.cache
+C:\Users\nivek\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.Form1.resources
+C:\Users\nivek\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.Properties.Resources.resources
+C:\Users\nivek\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.csproj.GenerateResource.cache
+C:\Users\nivek\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.csproj.CoreCompileInputs.cache
+C:\Users\nivek\source\repos\PunchOut\PunchOut\bin\Debug\PunchOut.exe.config
+C:\Users\nivek\source\repos\PunchOut\PunchOut\bin\Debug\PunchOut.exe
+C:\Users\nivek\source\repos\PunchOut\PunchOut\bin\Debug\PunchOut.pdb
+C:\Users\nivek\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.exe
+C:\Users\nivek\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.pdb
