@@ -12,12 +12,16 @@ This repository is used for c# game development
 - First item
 - Second item
 - Third item
+<br>
 `code`
-[title](https://www.example.com)
-![alt text](image.jpg)
+
+[Trello Link](https://trello.com/b/pdmKNyje/punchout)
 ![Punch-out_mrdream_boxart](https://user-images.githubusercontent.com/31461421/215283904-da0b6ed3-f3dc-47c6-949f-971c25f66aa7.PNG)
+<br>
 <sub>What is blockbuster </sub>
+<br>
 <sup>what is a record player </sup>
+<br>
 This is a sample read me file for our github example repo
 
 | Syntax | Description |
@@ -35,14 +39,18 @@ This is a sample read me file for our github example repo
 
 
 I need to highlight these ==very important words==.
+
 That is so funny! :joy:
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+<br>
 ~~The world is flat.~~
 term
 : definition
+
 ### My Great Heading {#custom-id}
+
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
