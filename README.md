@@ -39,7 +39,7 @@ This is a sample read me file for our github example repo
 
 <br>
 
-<mark>highlight</mark>
+==highlight==
 
 <br>
 That is so funny! :joy:
