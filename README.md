@@ -15,6 +15,7 @@ This repository is used for c# game development
 `code`
 [title](https://www.example.com)
 ![alt text](image.jpg)
+![Punch-out_mrdream_boxart](https://user-images.githubusercontent.com/31461421/215283904-da0b6ed3-f3dc-47c6-949f-971c25f66aa7.PNG)
 <sub>What is blockbuster </sub>
 <sup>what is a record player </sup>
 This is a sample read me file for our github example repo
@@ -28,7 +29,7 @@ This is a sample read me file for our github example repo
   "lastName": "Smith",
   "age": 25
 }
-```![Punch-out_mrdream_boxart](https://user-images.githubusercontent.com/31461421/215283904-da0b6ed3-f3dc-47c6-949f-971c25f66aa7.PNG)
+```
 
 
 I need to highlight these ==very important words==.
