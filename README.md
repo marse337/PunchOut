@@ -44,9 +44,11 @@ This is a sample read me file for our github example repo
 
 <br>
 That is so funny! :joy:
+
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
 <br>
 ~~The world is flat.~~
 term
