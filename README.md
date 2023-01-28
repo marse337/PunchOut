@@ -6,3 +6,4 @@ This repository is used for c# game development
 ~~ Will Chatgpt replace everything I know ~~
 <sub>What is blockbuster </sub>
 <sup>what is a record player </sup>
+This is a sample read me file for our github example repo
