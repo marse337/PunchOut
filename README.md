@@ -19,10 +19,12 @@ This repository is used for c# game development
 <sub>What is blockbuster </sub>
 <sup>what is a record player </sup>
 This is a sample read me file for our github example repo
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
 ```
 {
   "firstName": "John",
