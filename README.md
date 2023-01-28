@@ -37,9 +37,9 @@ This is a sample read me file for our github example repo
 }
 ```
 
-
-I need to highlight these ==very important words==.
-
+<br>
+<span style="background-color: #FFFF00">Marked text</span>
+<br>
 That is so funny! :joy:
 - [x] Write the press release
 - [ ] Update the website
