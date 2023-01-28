@@ -39,7 +39,7 @@ This is a sample read me file for our github example repo
 
 <br>
 
-<mark >Highlighted text</mark>  
+<mark style="background-color: #FFFF00">Highlighted text</mark>  
 ==highlight==
 
 <br>
