@@ -6,12 +6,15 @@ This repository is used for c# game development
 ###### Will Chatgpt replace everything I know?
 **bold text**
 *italicized text*
-	1. First item
+
+1. First item
 2. Second item
 3. Third item
+
 - First item
 - Second item
 - Third item
+
 <br>
 `code`
 
